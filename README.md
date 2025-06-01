@@ -2,7 +2,7 @@
 
 To execute the queries.js script containing MongoDB queries and aggregations, follow the steps below using the MongoDB Shell (mongosh):
 
-✅ **Prerequisites**
+**✅ Prerequisites**
 
 Ensure you have MongoDB and mongosh installed on your system.
 
@@ -24,6 +24,7 @@ This command tells MongoDB to read and execute each line of the script sequentia
 
 
 **✅ Result**
+
 The commands in queries.js will be executed in order.
 
 You’ll see the output for each query directly in the terminal.
