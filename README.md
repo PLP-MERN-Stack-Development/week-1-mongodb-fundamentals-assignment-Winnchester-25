@@ -8,7 +8,7 @@ Ensure you have MongoDB and mongosh installed on your system.
 
 The script file queries.js should be saved locally and contain valid MongoDB commands.
 
-🧪** Steps to Run the Script**
+**🧪Steps to Run the Script**
 
 Open your terminal or command prompt.
 
